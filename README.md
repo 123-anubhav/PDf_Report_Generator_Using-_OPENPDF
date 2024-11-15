@@ -1,6 +1,3 @@
-Here's a beautiful, structured `README.md` file for your **PDF Generator** project using Spring Boot, which includes all the necessary details to get started, run, and understand your project:
-
-```markdown
 # 📄 PDF Generator Project
 
 A Spring Boot-based application that generates PDF reports from user data stored in a MySQL database. This project uses **OpenPDF** for creating professional PDF documents.
